@@ -45,5 +45,6 @@ cy.get(this.weblocators.policyCheckbox).check()
 clickContinue(){
     cy.get(this.weblocators.continue).click()
 }
+//git check
 
 }
